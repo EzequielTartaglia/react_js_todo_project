@@ -1,29 +1,53 @@
 
 # CRUD App React.JS : Login con autentificacion de google account y tambien una aplicacion todo con almacenamiento cache.
 
-## Informacion relevante
+## Overview
 
-### API para authentification → https://manage.auth0.com/
+This project is a CRUD application developed with React.js that incorporates Google authentication through Auth0. Additionally, it includes a to-do list application with cache storage, allowing for an optimized user experience without constant internet dependency.
 
-### Demo: https://loginauth0jsx.netlify.app/
+The main goal of this development is to strengthen my skills in React.js and the integration of modern authentication systems, as well as improve data management in local storage.
 
-## Funciones
+### Software Demo Video → https://youtu.be/wZwbcMKUJl0
 
-• Crear registros: Permitir a los usuarios agregar nuevos registros a la base de datos, como por ejemplo agregar un nuevo producto o cliente.
+### Development Environment
 
-• Leer registros: Permitir a los usuarios ver los registros existentes en la base de datos, como por ejemplo ver una lista de productos o clientes.
+For the development of this project, the following tools and technologies were used:
 
-• Actualizar registros: Permitir a los usuarios modificar registros existentes en la base de datos, como por ejemplo actualizar la información de un producto o cliente.
+Language: JavaScript (React.js)
 
-• Eliminar registros: Permitir a los usuarios eliminar registros existentes en la base de datos, como por ejemplo eliminar un producto o cliente.
+- Frameworks and Libraries:
 
-• Almacenamiento de datos en Local Storage: Almacenar los datos en el dispositivo del usuario, lo que permite una experiencia de usuario más rápida y sin necesidad de conexión a Internet.
+    React.js (for UI development)
+    Auth0 (for user authentication)
+    LocalStorage (for data caching)
 
-• Autenticación con Auth0: Proporcionar una autenticación segura a través de Auth0, que permite a los usuarios iniciar sesión con sus credenciales o con otras redes sociales.
+- Development Tools:
 
-• Diferentes UI con opciones cuando el usuario esta logeado y cuando no lo esta
+    Node.js and npm (package management)
+    Netlify (for deployment)
 
-## Interfaz
+## Features
 
-![Making-time](https://user-images.githubusercontent.com/96756615/224583005-95e11cf8-1666-4bea-80ec-4063bda8d0b5.jpg)
+    - Create records: Allows users to add new records to the database, such as products or clients.
+    - Read records: Enables users to view existing records.
+    - Update records: Users can modify existing records.
+    - Delete records: Allows users to remove records from the database.
+    - LocalStorage support: Enables data persistence on the user's device.
+    - Auth0 authentication: Users can log in with Google or other social networks.
+    - Different UI states based on session status: The interface changes depending on whether the user is logged in or not.
+
+## Useful Websites
+
+    - React.js Documentation (https://react.dev/learn)
+    - Auth0 Documentation (https://react.dev/learn)
+    - MDN Web Docs (https://developer.mozilla.org/es/)
+    - Netlify Deployment Guide (https://developer.mozilla.org/es/)
+
+## Future Work
+
+    - Improve the user interface for a better experience.
+    - Implement Redux for more efficient state management.
+    - Add support for external databases such as Firebase or MongoDB.
+    - Include more robust form validations.
+    - Integrate unit and integration tests.
 
