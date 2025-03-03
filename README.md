@@ -38,10 +38,10 @@ Language: JavaScript (React.js)
 
 ## Useful Websites
 
-    - React.js Documentation (https://react.dev/learn)
-    - Auth0 Documentation (https://react.dev/learn)
-    - MDN Web Docs (https://developer.mozilla.org/es/)
-    - Netlify Deployment Guide (https://developer.mozilla.org/es/)
+    - [React.js Documentation] (https://react.dev/learn)
+    - [Auth0 Documentation] (https://react.dev/learn)
+    - [MDN Web Docs] (https://developer.mozilla.org/es/)
+    - [Netlify Deployment Guide] (https://developer.mozilla.org/es/)
 
 ## Future Work
 
