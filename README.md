@@ -7,7 +7,9 @@ This project is a CRUD application developed with React.js that incorporates Goo
 
 The main goal of this development is to strengthen my skills in React.js and the integration of modern authentication systems, as well as improve data management in local storage.
 
-### Software Demo Video → https://youtu.be/wZwbcMKUJl0
+### Video
+
+- [Software Demo Video] (https://youtu.be/wZwbcMKUJl0)
 
 ### Development Environment
 
